@@ -1,0 +1,297 @@
+﻿t: 51 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 640 ; iteraciones: 8 ; errorFinal: 3.39284e-013
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 4274 ; iteraciones: 64 ; errorFinal: 8.14779e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1560 ; iteraciones: 37 ; errorFinal: 5.09317e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 468 ; iteraciones: 7 ; errorFinal: 2.05719e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 3759 ; iteraciones: 59 ; errorFinal: 7.42939e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1435 ; iteraciones: 34 ; errorFinal: 6.28549e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 811 ; iteraciones: 7 ; errorFinal: 8.72635e-013
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 5335 ; iteraciones: 50 ; errorFinal: 7.98459e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 2496 ; iteraciones: 29 ; errorFinal: 8.55307e-011
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 131633 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 126750 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 51 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 105909 ; iteraciones: 1000 ; errorFinal: 7.5
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 546 ; iteraciones: 8 ; errorFinal: 3.39284e-013
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 17036 ; iteraciones: 76 ; errorFinal: 1.81899e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1575 ; iteraciones: 37 ; errorFinal: 5.09317e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 515 ; iteraciones: 7 ; errorFinal: 2.05719e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 13416 ; iteraciones: 60 ; errorFinal: 1.57137e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1435 ; iteraciones: 34 ; errorFinal: 6.28549e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 827 ; iteraciones: 7 ; errorFinal: 8.72635e-013
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 21123 ; iteraciones: 49 ; errorFinal: 1.63709e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 2496 ; iteraciones: 29 ; errorFinal: 8.55307e-011
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 131634 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 528466 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 40 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 106002 ; iteraciones: 1000 ; errorFinal: 7.5
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 546 ; iteraciones: 8 ; errorFinal: 3.39284e-013
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03821 ; Beta = 6.49868 ; Lambda = 3.29687
+tiempo: 436754 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1560 ; iteraciones: 37 ; errorFinal: 5.09317e-011
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 484 ; iteraciones: 7 ; errorFinal: 2.05719e-011
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03821 ; Beta = 6.49868 ; Lambda = 3.29687
+tiempo: 437863 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1451 ; iteraciones: 34 ; errorFinal: 6.28549e-011
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 811 ; iteraciones: 7 ; errorFinal: 8.72635e-013
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03821 ; Beta = 6.49868 ; Lambda = 3.29687
+tiempo: 854710 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 2512 ; iteraciones: 29 ; errorFinal: 8.55307e-011
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 131726 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.03821 ; Beta = 6.49868 ; Lambda = 3.29687
+tiempo: 1.06003e+006 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 25 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 105893 ; iteraciones: 1000 ; errorFinal: 7.5
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 546 ; iteraciones: 8 ; errorFinal: 3.39284e-013
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.23704 ; Beta = 7.99239 ; Lambda = 2.13731
+tiempo: 536017 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1575 ; iteraciones: 37 ; errorFinal: 5.09317e-011
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 483 ; iteraciones: 7 ; errorFinal: 2.05719e-011
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.23704 ; Beta = 7.99239 ; Lambda = 2.13731
+tiempo: 535986 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 1436 ; iteraciones: 34 ; errorFinal: 6.28549e-011
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 811 ; iteraciones: 7 ; errorFinal: 8.72635e-013
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.23704 ; Beta = 7.99239 ; Lambda = 2.13731
+tiempo: 1.05255e+006 ; iteraciones: 1000 ; errorFinal: 0
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 1000 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 2574 ; iteraciones: 29 ; errorFinal: 8.55307e-011
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 1000 ; metodo: Newton ;  p0: 10
+Sigma = 2.03556 ; Beta = 6.48244 ; Lambda = 3.31377
+tiempo: 133302 ; iteraciones: 1000 ; errorFinal: 0
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 500 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.23706 ; Beta = 7.99469 ; Lambda = 2.13774
+tiempo: 777722 ; iteraciones: 500 ; errorFinal: nan
+
+
+t: 18 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 500 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.23717 ; Beta = 7.99608 ; Lambda = 2.13728
+tiempo: 648353 ; iteraciones: 500 ; errorFinal: 2.66666
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 500 ; metodo: Newton ;  p0: 10
+Sigma = 2.52972 ; Beta = 12.2034 ; Lambda = 0.81488
+tiempo: 456142 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 500 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 418875 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 2 ; Máxima cantidad de iteraciones: 500 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 418875 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 500 ; metodo: Newton ;  p0: 10
+Sigma = 2.52972 ; Beta = 12.2034 ; Lambda = 0.81488
+tiempo: 453400 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 500 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 422192 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 3 ; Máxima cantidad de iteraciones: 500 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 422192 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 500 ; metodo: Newton ;  p0: 10
+Sigma = 2.52972 ; Beta = 12.2034 ; Lambda = 0.81488
+tiempo: 730050 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 500 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 704731 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 4 ; Máxima cantidad de iteraciones: 500 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 704731 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 500 ; metodo: Newton ;  p0: 10
+Sigma = 2.52972 ; Beta = 12.2034 ; Lambda = 0.81488
+tiempo: 877740 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 500 ; metodo: Secante ;  p0: 10 p1: 11
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 840877 ; iteraciones: 500 ; errorFinal: 0
+
+
+t: 15 ; Error: 1e-010 ; Tipo de error: 5 ; Máxima cantidad de iteraciones: 500 ; metodo: Biseccion ;  a: 10 b: 3
+Sigma = 2.52777 ; Beta = 12.0437 ; Lambda = 0.820892
+tiempo: 840877 ; iteraciones: 500 ; errorFinal: 0

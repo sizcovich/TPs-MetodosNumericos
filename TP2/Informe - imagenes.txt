@@ -1,0 +1,24 @@
+(Luego de lo ya escrito)
+
+Ahora pasamos a analizar los PSNR. Si bien antes hablamos de una cota con el mejor promedio de PSNR en la imagen restaurada cuando ésta era mejor que la imagen con ruido, también hay que tener en cuenta que ante menos ruido es más eficiente una cota menor.
+Hicimos varias pruebas con distintos ruidos y observamos como una cota de 100.000 o menos podía arruinar la imagen en vez de mejorarla. Así como una cota chica podia no mejora en nada la imagen.
+
+Mostramos los resultados con las cotas de 5.000, 100.000 y 300.000 para graficar lo antes descrito:
+
+PSNRs para una cota de 5.000
+(imagen "imgsPX5k.jpg")
+
+Diferencias de PSNRs para una cota de 5.000
+(imagen "imgsPXY5k.jpg")
+
+PSNRs para una cota de 100.000
+(imagen "imgsPX100k.jpg")
+
+Diferencias de PSNRs para una cota de 100.000
+(imagen "imgsPXY100k.jpg")
+
+PSNRs para una cota de 300.000
+(imagen "imgsPX300k.jpg")
+
+Diferencias de PSNRs para una cota de 300.000
+(imagen "imgsPXY300k.jpg")

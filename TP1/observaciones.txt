@@ -1,0 +1,64 @@
+REFERENCIAS: cplusplus.com ??
+
+-----------------------------------------------------------
+DESARROLLO: solo cosideramos interesante variar los criterios de parada, t y Epsilon. Dejaremos las iteraciones en un valor alto para que sea dificil que el método deje de ejecutarse por éste parámetro.
+
+-----------------------------------------------------------
+RESULTADOS
+
+A)Resultados de la experimentación con tError=[1,5], t={51,40,25,18,15}, Métodos={Newton,Secante,Biseccion}, hasta 1000 iteraciones y Epsilon=1E-10,
+para el archivo x_15_9_3.txt
+
+1) Newton funciona muy bien en todos los casos tError<>5 (tError=5 hace MUCHAS iteraciones extra)
+
+2) Solo biseccion trabaja bien con tError=5 (t>15)
+
+3) Con t<=15 todos los métodos estan muy lejos del Beta real.
+
+4) Las iteraciónes de Secante son mucho más lentas que las de Biseccion (en milisegundos)
+
+5) El error final de Newton suele ser senciblemente menor a los errores de los otros métodos
+
+6) Los errores finales de Secante y Biseccion son del mismo orden
+
+7) Mejor tiempo: Newton en tError=2 y tError=3
+
+8) Menos iteraciones: Newton (menos en tError=5)
+
+9) Menor error: Newton tError=1,4
+
+
+B)Resultados de la experimentación con tError=[1,5], t={51,40,25,18,15}, Métodos={Newton,Secante,Biseccion}, hasta 1000 iteraciones y Epsilon=1E-10,
+para el archivo x_2_62_15.txt
+
+Se repiten: 1, 3, 4, 5, 6, 8
+
+Diferencias:
+
+2) Ninguno trabaja bien con tError=5
+
+7) Mejor tiempo: Newton en tError=1, 2 y 3
+
+9) Menor error: Newton tError=1,2 y 4.
+
+-----------------------------------------------------------
+DISCUSION:
+
+Los resultados obtenidos en cuanto a cantidad de iteraciones realizadas por los métodos es coherente con la teoría: Newton converge más rapido que Secante, y éste que Biseccion
+También encontramos coherentes los resultados de tiempo (por su relación con la cantidad de iteraciones) y de error, contrastando con la teoría.
+
+Los t modifican los tiempos y la cantidad de iteraciones senciblemente, así como ciertos tipos de parada.
+con t<=18 biseccion se aleja más que los otros métodos del 0 real.
+
+**REVISAR** Encontramos que para ésta funcion, la forma de parada 5 no nos brindaba información (los metodos realizaban en la mayoría de los casos el máximo de iteraciones)
+Ésta comprobación se hizo con varios parámetros de entrada para cada funcion (Epsilon=1E-10, 1E-6, 0.0001, 0.001)
+Los test con Epsilon<=0.0001 no aportaron datos, y los test con Epsilon>=0.001 sí. Los datos aportados no son significativos en comparacion con el resto de los datos obtenidos.
+Gracias a los últimos test y al análisis de tError=5, creemos que el inconveniente viene a raiz de que éste critero de parada da un número muy grande, y por eso suele no aportar mucha información.
+
+
+-----------------------------------------------------------
+CONCLUSION:
+
+Hemos encontrado de forma empírica que para una funcion a al cual le conocemos la derivada, el método de Newton es más eficaz que los métodos Secante y Biseccion.
+También hemos notado las diferencias entre una precision y otra, y los diferentes criterios de parada. Cómo las variaciones podian resultar en pequeñas variaciones o en métodos que no cumplían su cometido.
+Las diferencias de los diferentes Epsilon solo dieron resultados interesantes al analizar tError=5, ya que en los otros casos dieron el esperado resultado de, a menor Epsilon, mayor error y menor iteraciones.
