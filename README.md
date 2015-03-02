@@ -1,7 +1,7 @@
 TPs - MÉTODOS NUMÉRICOS 
 ========
 
-1° Cuatrimestre 2014
+1° Cuatrimestre 2013
 
 Departamento de Computación,  
 Facultad de Ciencias Exactas y Naturales,  
